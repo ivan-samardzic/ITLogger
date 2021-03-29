@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed hard drive on workstation 005",
+      "attention": false,
+      "date": "04-02-2021",
+      "tech": "Petar Perkovic"
+    },
+    {
+      "id": 2,
+      "message": "Workstation 002 not working",
+      "attention": true,
+      "date": "06-02-2021",
+      "tech": "Ante Antic"
+    },
+    {
+      "id": 3,
+      "message": "Hard drive on workstation 005 is out of work again",
+      "attention": true,
+      "date": "08-02-2021",
+      "tech": "Mate Matic"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Petar",
+      "lastName": "Perkovic"
+    },
+    {
+      "id": 2,
+      "firstName": "Mate",
+      "lastName": "Matic"
+    },
+    {
+      "id": 3,
+      "firstName": "Ante",
+      "lastName": "Antic"
+    }
+  ]
+}
