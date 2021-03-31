@@ -6,6 +6,20 @@
       "attention": false,
       "tech": "Petar Perkovic",
       "date": "2021-03-31T15:41:03.740Z"
+    },
+    {
+      "message": "Hard Drive is broken again",
+      "attention": true,
+      "tech": "Petar Perkovic",
+      "date": "2021-03-31T15:58:08.226Z",
+      "id": 2
+    },
+    {
+      "message": "The Network 002 must be repaire tommorow",
+      "attention": true,
+      "tech": "Petar Perkovic",
+      "date": "2021-03-31T15:58:35.692Z",
+      "id": 3
     }
   ],
   "techs": [
