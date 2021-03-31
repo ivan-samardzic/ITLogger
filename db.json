@@ -1,11 +1,11 @@
 {
   "logs": [
     {
-      "message": "Fixed 002 Workstation ",
-      "attention": true,
+      "id": 1,
+      "message": "Fixed 002 Workstation",
+      "attention": false,
       "tech": "Petar Perkovic",
-      "date": "2021-03-30T16:37:13.938Z",
-      "id": 1
+      "date": "2021-03-31T15:41:03.740Z"
     }
   ],
   "techs": [
